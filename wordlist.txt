@@ -1,5 +1,0 @@
-hello
-bye
-dog
-cat
-rabbit
